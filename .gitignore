@@ -1,0 +1,7 @@
+*.jar
+*.war
+*.class
+.metadata
+//temp/
+*.zip
+*.7z
